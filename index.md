@@ -8,12 +8,14 @@
 
 Thanks for joining us. Our volunteers are here to help you get started and help you when you run into problems you can't figure out. Parents are encouraged to help their children through the tutorials.
 
+
+
 ### PICK A TUTORIAL
 
 <table>
     <thead>
         <tr>
-            <th colspan="2">The table header</th>
+            <th colspan="2"><h3>Pre-Readers</h3></th>
         </tr>
     </thead>
     <tbody>
@@ -22,9 +24,14 @@ Thanks for joining us. Our volunteers are here to help you get started and help 
             <td>with two columns</td>
         </tr>
     </tbody>
-    <tfoot>
-        <tr>
-            <td colspan="2">The table footer</td>
-        </tr>
-    </tfoot>
 </table>
+
+
+
+
+<!-- This is a comment 
+
+<b>and this is something we can expose</b>
+
+-->
+
