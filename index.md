@@ -1,8 +1,5 @@
 <img src="images/backtothedojo.svg" alt="drawing" width="100%"/>
 
-
-
-
 ## Bring Your Kid(s) to Work Day Coding Rooms
 ### Hosted by Seattle CoderDojo and Amazon.com
 
