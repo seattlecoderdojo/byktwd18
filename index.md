@@ -5,9 +5,7 @@
 
 Thanks for joining us. Our volunteers are here to help you get started and help you when you run into problems you can't figure out. Parents are encouraged to help their children through the tutorials.
 
-
-
-### PICK A TUTORIAL
+## PICK A TUTORIAL
 
 <table>
     <thead>
@@ -17,8 +15,8 @@ Thanks for joining us. Our volunteers are here to help you get started and help 
     </thead>
     <tbody>
         <tr>
-            <td>The table body</td>
-            <td>with two columns</td>
+            <td align="center"><a href="http://lightbot.com/hour-of-code.html"><img src="images/lightbot.jpg" width="40%"></a></td>
+            <td align="center"><a href="https://hourofcode.com/bits"><img src="images/bits_bricks.jpg" width="40%"></a></td>
         </tr>
     </tbody>
 </table>
