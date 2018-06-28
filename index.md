@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+![dojo](images/backtothedojo.svg)
+
+
+
+## Bring Your Kid(s) to Work Day - Coding Extravaganza
 
 You can use the [editor on GitHub](https://github.com/seattlecoderdojo/byktwd18/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
