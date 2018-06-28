@@ -3,6 +3,11 @@
 ## Bring Your Kid(s) to Work Day Coding Rooms
 ### Hosted by Seattle CoderDojo and Amazon.com
 
+
+
+**Find this page at: http://bit.ly/amznkids18**
+
+
 Thanks for joining us. Our volunteers are here to help you get started and help you when you run into problems you can't figure out. Parents are encouraged to help their children through the tutorials.
 
 ## PICK A TUTORIAL
