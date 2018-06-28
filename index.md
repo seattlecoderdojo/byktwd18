@@ -15,8 +15,8 @@ Thanks for joining us. Our volunteers are here to help you get started and help 
     </thead>
     <tbody>
         <tr>
-            <td align="center"><a href="http://lightbot.com/hour-of-code.html"><img src="images/lightbot.jpg" width="40%"><br>Lightbot</a></td>
-            <td align="center"><a href="https://hourofcode.com/bits"><img src="images/bits_bricks.jpg" width="40%"><br>Lego&trade; Bits & Bricks</a></td>
+            <td align="center"><a href="http://lightbot.com/hour-of-code.html"><img src="images/lightbot.jpg" width="80%"><br>Lightbot</a></td>
+            <td align="center"><a href="https://hourofcode.com/bits"><img src="images/bits_bricks.jpg" width="80%"><br>Lego&trade; Bits & Bricks</a></td>
         </tr>
     </tbody>
 </table>
