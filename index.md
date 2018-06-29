@@ -71,9 +71,9 @@ Thanks for joining us. Our volunteers are here to help you get started and help 
 <!--    <tbody>
         <tr>
             <td align="center"><a href="https://hourofcode.com/thinkfun"><img src="images/thinkfun_robot_repair.jpg" width="80%"><br>Robot Repair</a><br>Why not try some Boolean logic puzzles on for size?</td>
-            <td align="center"><a href="https://www.codingame.com/hour-of-code"><img src="images/coders_strikeback.jpg" width="80%"><br>Coders Strike Back</a><br>Write code to guide racing rockets around increasingly hard courses.</td>
+            <td align="center"><a href="https://www.codingame.com/hour-of-code"><img src="images/coders_strikeback.jpg" width="80%"><br>Coders Strike Back</a><br>Guide racing rockets around increasingly hard courses.</td>
         </tr>
-        <tr>
+        <tr style="background-color: #fff;">
             <td colspan=2 align=center><a href="https://hourofcode.com/gfbloons"><img src="images/gamefroot_bloons.jpg" width="40%"><br>Bloons Triginometry Defense</a><br>Enlist advanced math skills in this popular tower defense game.</td>
         </tr>
     </tbody> -->
