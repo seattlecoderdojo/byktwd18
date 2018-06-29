@@ -29,9 +29,9 @@ Thanks for joining us. Our volunteers are here to help you get started and help 
 
 
 
-<!-- This is a comment 
+<div><!-- This is a comment 
 
 <b>and this is something we can expose</b>
 
--->
+--></div>
 
