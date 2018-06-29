@@ -10,7 +10,7 @@ Thanks for joining us. Our volunteers are here to help you get started and help 
 <table border="0" padding="0">
     <thead>
         <tr>
-            <th colspan="2"><h3>Pre-Readers</h3><br>Create programs using symbols.</th>
+            <th colspan="2"><strong>Pre-Readers</strong><br><small>Create programs using symbols.</small></th>
         </tr>
     </thead>
     <tbody>
@@ -24,7 +24,7 @@ Thanks for joining us. Our volunteers are here to help you get started and help 
 <table border="0" padding="0">
     <thead>
         <tr>
-            <th colspan="2"><h3>Elementary School</h3><br>Create programs using drag-and-drop instruction blocks.</th>
+            <th colspan="2"><strong>Elementary School</strong><br><small>Create programs using drag-and-drop instruction blocks.</small></th>
         </tr>
     </thead>
     <tbody>
@@ -38,7 +38,7 @@ Thanks for joining us. Our volunteers are here to help you get started and help 
 <table border="0" padding="0">
     <thead>
         <tr>
-            <th colspan="2"><h3>Middle School</h3><br>Start writing some code.</th>
+            <th colspan="2"><strong>Middle School</strong><br><small>Start writing some code.</small></th>
         </tr>
     </thead>
     <tbody>
@@ -52,7 +52,7 @@ Thanks for joining us. Our volunteers are here to help you get started and help 
 <table border="0" padding="0">
     <thead>
         <tr>
-            <th colspan="2"><h3>High School</h3><br>Maybe you can handle something a bit more difficult.</th>
+            <th colspan="2"><strong>High School</strong><br><small>Maybe you can handle something a bit more difficult.</small></th>
         </tr>
     </thead>
     <tbody>
@@ -62,10 +62,10 @@ Thanks for joining us. Our volunteers are here to help you get started and help 
         </tr>
     </tbody>
 </table>
-<table border="0" padding="0">
+<table border="0" padding="0" width="100%">
     <thead>
         <tr>
-            <th colspan="2"><h3>Secret Menu</h3><br>If you think you're too advanced for all the ones above, figure out how to show the secret menu for three harder options.</th>
+            <th colspan="2"><strong>Secret Menu</strong><br><small>If you think you're too advanced for all the ones above, figure out how to show the secret menu for three harder options.</small></th>
         </tr>
     </thead>
 <!--    <tbody>
